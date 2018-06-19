@@ -2018,4 +2018,3 @@ walt_task_in_cum_window_demand(struct rq *rq, struct task_struct *p)
 #else /* arch_scale_freq_capacity */
 #define arch_scale_freq_invariant()     (false)
 #endif
->>>>>>> cdb43d072e4a1f84f3c6b38c4a595cf10986859d
